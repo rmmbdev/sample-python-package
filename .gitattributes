@@ -1,0 +1,7 @@
+*       text=auto
+*       text eol=lf
+*.pb    binary
+*.h5    binary
+*.data-00000-of-00002 binary
+*.data-00001-of-00002 binary
+*.index binary
